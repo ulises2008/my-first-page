@@ -171,8 +171,9 @@ body {
 .services {
     display: flex;
     align-items: center;
-     justify-content: space-between;
-     padding: 25px 250px ;
+    justify-content: center;
+    gap: 30px;
+
      
 }
 .serivices-one ,.services-two , .services-three , .services-four {
